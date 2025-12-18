@@ -1,0 +1,7 @@
+{
+  "name": "Life.Church Christmas Clone",
+  "description": "A high-fidelity landing page clone for Life.Church featuring a Christmas theme, responsive sections, and professional religious organization aesthetics.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
